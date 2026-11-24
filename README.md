@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistem Informasi Pendaftaran Sidang Sarjana
 Program Studi Sistem Informasi · Universitas Gunadarma · Regu Tulip (4KA01)
 
@@ -85,3 +86,6 @@ Aplikasi diuji end-to-end di browser (Playwright) terhadap MySQL dengan **41 ske
 - lapor akun lalu hapus & arsip oleh super admin, akun arsip ditolak login
 - CRUD paket materi dan dokumen, tutup/buka pendaftaran, kelola landing page, ubah teks kategori, manajemen admin (nonaktif ditolak login), log aktivitas, notifikasi
 - akses lintas peran (403), tampilan mobile 390px
+=======
+# sidang-sarjana
+>>>>>>> 2b9dd3e0b135c76375e5a22286e65824df93c351
